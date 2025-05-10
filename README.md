@@ -18,9 +18,14 @@
 5. Отправьте коммит в репозиторий: ```git push -u origin new-text```.
 6. Откройте репозиторий на GitHub в браузере, переключитесь на ветку ```new-text``` и скопируйте ссылку из адресной строки браузера.
 
-![](sprait.jpg)
+Фото: 
+
+![](sprait.png)
+
+Ссылка на фото:
 
 [https://imgur.com/gallery/everything-is-stickers-J5khd4T](https://imgur.com/JilyYkO)
 
+Видео ссылка:
 
 [https://imgur.com/gallery/mead-hMmuGmy](https://imgur.com/gjZRIjQ)
